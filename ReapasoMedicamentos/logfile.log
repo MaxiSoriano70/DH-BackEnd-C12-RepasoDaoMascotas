@@ -1,0 +1,21 @@
+[2024-05-21 01:16:22] [ ERROR] [MascotaServiceTest:26] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+
+
+INSERT INTO MASCOTAS (NOMBRE, DIRECCION, FECHA_DE_NACIMIENTO, EDAD, PROPIETARIO) VALUES
+(DEFAULT, 'firulais', '123 Calle Falsa', '2015-05-01', 9, 'Juan Pérez'),
+(DEFAULT, 'pelusa', '456 Avenida Siempre Viva', '2018-07-14', 5, 'Ana Gómez'),
+(DEFAULT, 'rex', '789 Camino Verde', '2017-10-20', 6, 'Carlos López'),
+(DEFAULT, 'luna', '321 Boulevard del Sol', '2019-01-30', 4, 'Marta Rodríguez'),
+(DEFAULT, 'mimi', '654 Plaza Central', '2020-12-15', 3, 'Laura Sánchez') [21002-214]
+[2024-05-21 01:17:41] [ INFO ] [MascotaIDaoH2:50] Mascotas persistida o registrada = Mascotaid=6, nombre='margo', direccion='calle false 123', fechaDeNacimiento=2019-06-03, edad=4, propietario='MAxi Soriano'
+[2024-05-21 01:17:41] [ INFO ] [MascotaIDaoH2:100] Mascotas encontrada = Mascotaid=6, nombre='margo', direccion='calle false 123', fechaDeNacimiento=2019-06-03, edad=4, propietario='4'
+[2024-05-21 01:19:10] [ INFO ] [MascotaIDaoH2:50] Mascotas persistida o registrada = Mascotaid=6, nombre='margo', direccion='calle false 123', fechaDeNacimiento=2019-06-03, edad=4, propietario='MAxi Soriano'
+[2024-05-21 01:19:10] [ INFO ] [MascotaIDaoH2:100] Mascotas encontrada = null
+[2024-05-21 01:19:10] [ INFO ] [MascotaIDaoH2:100] Mascotas encontrada = Mascotaid=6, nombre='margo', direccion='calle false 123', fechaDeNacimiento=2019-06-03, edad=4, propietario='4'
+[2024-05-21 01:19:45] [ INFO ] [MascotaIDaoH2:50] Mascotas persistida o registrada = Mascotaid=6, nombre='margo', direccion='calle false 123', fechaDeNacimiento=2019-06-03, edad=4, propietario='MAxi Soriano'
+[2024-05-21 01:19:45] [ INFO ] [MascotaIDaoH2:100] Mascotas encontrada = null
+[2024-05-21 01:19:45] [ INFO ] [MascotaIDaoH2:100] Mascotas encontrada = Mascotaid=6, nombre='margo', direccion='calle false 123', fechaDeNacimiento=2019-06-03, edad=4, propietario='4'
+[2024-05-21 01:19:57] [ INFO ] [MascotaIDaoH2:50] Mascotas persistida o registrada = Mascotaid=6, nombre='margo', direccion='calle false 123', fechaDeNacimiento=2019-06-03, edad=4, propietario='MAxi Soriano'
+[2024-05-21 01:19:57] [ INFO ] [MascotaIDaoH2:100] Mascotas encontrada = null
+[2024-05-21 01:19:57] [ INFO ] [MascotaIDaoH2:100] Mascotas encontrada = Mascotaid=6, nombre='margo', direccion='calle false 123', fechaDeNacimiento=2019-06-03, edad=4, propietario='4'

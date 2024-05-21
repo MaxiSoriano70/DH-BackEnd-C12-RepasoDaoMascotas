@@ -1,0 +1,31 @@
+
+m	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øžîç8Í¯ÁËù1
+š
+java:S1104"RMake LOGGER a static final constant or non-public and provide accessors if needed.(­»é¶üÿÿÿÿ8ù†‡Êù1J$af3bd881-b9cc-4207-b020-a00f03ab1d29
+—
+java:S1104"UMake SQLINSERT a static final constant or non-public and provide accessors if needed.(—‡‰C8ù†‡Êù1J$a49f32ff-4b95-412c-b7ad-539d42c9d1fa
+Ÿ
+java:S1104"]Make SQL_SELECT_N0MBRE a static final constant or non-public and provide accessors if needed.(Ó”È>8ù†‡Êù1J$9912eb77-383e-4b1d-9509-2f0d7ec922ae
+t
+java:S1444",Make this "public static LOGGER" field final(­»é¶üÿÿÿÿ8ù†‡Êù1J$d31af258-3f6e-4f93-b316-d8e27f725b52
+q
+java:S1444"/Make this "public static SQLINSERT" field final(—‡‰C8ù†‡Êù1J$233329ba-8878-4106-9975-1fc703a5de7d
+y
+java:S1444"7Make this "public static SQL_SELECT_N0MBRE" field final(Ó”È>8ù†‡Êù1J$77aa7425-3460-4812-918b-e8a1c610c43c
+e
+java:S2259l"HA "NullPointerException" could be thrown; "connection" is nullable here.(ôêÂœ8˜¹ÁËù1
+’
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‰ìÎ¥8¥À‹Ëù1J$cfc88fd6-78b9-4cda-8b3c-6ea6406dd0e2
+l
+java:S2095U"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Åø´8™¹ÁËù1
+™
+java:S3008"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­»é¶üÿÿÿÿ8ÿ†‡Êù1J$1ab8858a-aa17-495b-a73b-675b1a5076e2
+–
+java:S3008"TRename this field "SQLINSERT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—‡‰C8ÿ†‡Êù1J$18a371e6-b767-4792-a7a5-1c0734255188
+ž
+java:S3008"\Rename this field "SQL_SELECT_N0MBRE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó”È>8ÿ†‡Êù1J$191f01bd-5549-43ba-a27b-82054da15a6d
+a
+java:S6905"Don't use the query "SELECT *".(Ó”È>8Ž‡‡Êù1J$de1e0e84-a00d-4b93-98a4-44b498848395
+u
+java:S1128
+"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿ8·À‹Ëù1J$d0ccde40-7f27-4185-b912-51f99e286043
